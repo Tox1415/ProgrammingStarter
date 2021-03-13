@@ -16,3 +16,7 @@ Top Hat, White Tie and Tails. Irving Berlin (1935)
 How would that all work out? 
 
 [White Tie, Top Hat and Tails, Willie Rushton] (https://youtu.be/v6b3a79DoQk)
+
+An algorithm is a set of instructions which, when execeuted in order, will achieve a specific objective. It computing terms, it can be seen as the blueprint for a computer program and the same algorithm can be implemented in a variety of languages while still retaining the same underlying logic and structure.
+
+
